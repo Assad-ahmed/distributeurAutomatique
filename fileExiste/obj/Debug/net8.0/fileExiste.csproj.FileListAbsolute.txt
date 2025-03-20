@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\fileExiste\fileExiste\bin\Debug\net8.0\fileExiste.exe
+C:\Users\HP\source\repos\fileExiste\fileExiste\bin\Debug\net8.0\fileExiste.deps.json
+C:\Users\HP\source\repos\fileExiste\fileExiste\bin\Debug\net8.0\fileExiste.runtimeconfig.json
+C:\Users\HP\source\repos\fileExiste\fileExiste\bin\Debug\net8.0\fileExiste.dll
+C:\Users\HP\source\repos\fileExiste\fileExiste\bin\Debug\net8.0\fileExiste.pdb
+C:\Users\HP\source\repos\fileExiste\fileExiste\obj\Debug\net8.0\fileExiste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\fileExiste\fileExiste\obj\Debug\net8.0\fileExiste.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\fileExiste\fileExiste\obj\Debug\net8.0\fileExiste.AssemblyInfo.cs
+C:\Users\HP\source\repos\fileExiste\fileExiste\obj\Debug\net8.0\fileExiste.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\fileExiste\fileExiste\obj\Debug\net8.0\fileExiste.dll
+C:\Users\HP\source\repos\fileExiste\fileExiste\obj\Debug\net8.0\refint\fileExiste.dll
+C:\Users\HP\source\repos\fileExiste\fileExiste\obj\Debug\net8.0\fileExiste.pdb
+C:\Users\HP\source\repos\fileExiste\fileExiste\obj\Debug\net8.0\fileExiste.genruntimeconfig.cache
+C:\Users\HP\source\repos\fileExiste\fileExiste\obj\Debug\net8.0\ref\fileExiste.dll
